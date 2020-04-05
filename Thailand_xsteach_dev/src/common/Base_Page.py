@@ -7,7 +7,8 @@ description:封装页面公用方法
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.select import Select
-from config.globalparameter import img_path
+# from config.globalparameter import img_path
+from Thailand_xsteach_dev.config.globalparameter import img_path
 from selenium.webdriver.common.by import By
 
 

@@ -3,7 +3,7 @@ __author__ = 'Helen'
 '''
 description:后台左则目录链接
 '''
-from src.common.Base_Page import BasePage
+from Thailand_xsteach_dev.src.common.Base_Page import BasePage
 from selenium.webdriver.common.by import By
 
 

@@ -5,8 +5,8 @@ description:用户管理测试
 '''
 import unittest
 import public_module
-from src.backendPages import BuserList_page, BuserEdit_page, BsiteMenu_page, BdepartmentList_page, BdepartmentEdit_page
-from src.common import data_generating
+from Thailand_xsteach_dev.src.backendPages import BuserList_page, BuserEdit_page, BsiteMenu_page, BdepartmentList_page, BdepartmentEdit_page
+from Thailand_xsteach_dev.src.common import data_generating
 
 
 class test_banken_userManage(unittest.TestCase):

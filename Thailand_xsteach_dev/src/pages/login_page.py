@@ -3,7 +3,8 @@ __author__ = 'Helen'
 '''
 description:泰国官网登录页面
 '''
-from src.common.Base_Page import BasePage
+# from src.common.Base_Page import BasePage
+from Thailand_xsteach_dev.src.common.Base_Page import BasePage
 from selenium.webdriver.common.by import By
 
 

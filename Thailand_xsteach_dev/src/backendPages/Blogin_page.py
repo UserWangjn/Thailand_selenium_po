@@ -3,9 +3,9 @@ __author__ = 'Helen'
 '''
 description:后台登录页面
 '''
-from src.common.Base_Page import BasePage
+from Thailand_xsteach_dev.src.common.Base_Page import BasePage
 from selenium.webdriver.common.by import By
-from config import globalparameter as gl
+from Thailand_xsteach_dev.config import globalparameter as gl
 
 
 class Blogin_page(BasePage):
